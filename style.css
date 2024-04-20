@@ -1,0 +1,47 @@
+body{
+   background-color:yellow;
+}
+.kot{
+    width: 60px;
+    height: 60px;
+    
+}
+.vasa{
+  text-align: center;
+  color: pink;
+    
+}
+.hop{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+}
+.vot{
+     width: 60px;
+    height: 60px;
+}
+.mi{
+    text-align: center;
+}
+.o_nas{
+    background-color: black;
+    color: chartreuse;
+}
+.iskustvo{
+    width: 500px;
+}
+.otziw{
+    text-align: center;
+}
+.karta{
+    text-align:center ;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.otziw{
+    color: black;
+}
+
